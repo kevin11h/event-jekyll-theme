@@ -57,3 +57,6 @@ Two different design:
 - In order to view PDF correctly, sharing setting in Google Drive must set to "Public on the web".
 
 ## Enjoy!
+
+# Image Credit
+https://www.cityofberkeley.info/winter_on_the_waterfront.aspx

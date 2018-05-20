@@ -1,7 +1,7 @@
 ---
-title: Name
-name: Name-1
-subtitle: Position
+title: Friend 3
+name: VIP 3 
+subtitle: Fortune Teller 
 layout: 2017_default
 modal-id: 1
 img: TBD.jpg
