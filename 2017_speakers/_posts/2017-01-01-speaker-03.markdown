@@ -8,15 +8,10 @@ img: me.jpg
 thumbnail: me.jpg
 alt: Picture of TBD
 topic: Why Invest in FinTech Knowledge
-description: "Kevin Hung (洪凱文, Кеша) is Founder, Producer and Chairman of inaugural Birthday Cryptocurrency Conference 2018 and is an aspiring artist, entrepreneur and world renown Imagineer who mixes diverse branches of knowledge learned from creative visualization, meditation, lucid dreaming, public speaking and decentralization into a positive force and power for Good. He graduated honorably and amicably in Computer Science and Engineering Major-Mathematics Minor from UC where he Co-Founded the Data Science Student Society in San Diego gaining 5 years of internships, engineering positions and contract projects under his belt with companies like Yelp, Qualcomm, Doctible, Supermicro and 5 months of cryptocurrency startup work experience in the sustainable energy blockchain space.<br>
+description: "Kevin Hung (洪凱文, Кеша) is Founder, Producer and Chairman of inaugural Birthday Cryptocurrency Conference 2018 and is an aspiring amateur artist, entrepreneur and world renown Imagineer who mixes, marries and combines diverse branches of knowledge learned and observed from creative visualization, meditation, lucid dreaming, public speaking and decentralization into a potent, positive power and force for Good.<br> <br>
 
- <br>
+He graduated honorably and amicably in Computer Science and Engineering Major-Mathematics Minor from University of California where he Co-Founded the Data Science Student Society in San Diego, meanwhile gaining 5 years of professional internships, engineering positions and contract projects under his belt with companies like Yelp, Qualcomm, Doctible, Supermicro and 5 months of cryptocurrency startup work experience in the sustainable energy blockchain space.<br> <br> 
 
+Role models he admires include Jensen Huang, Tony Hsieh, Robert Kiyosaki, and Jerry Yang, Co-Founder of Yahoo and Marissa Mayer, hoping to revive the glory of the tech giant into newly successful reincarnated ventures and brainchildren for future young generations."
 
-He intends to practice presence in each and every daily moment, transmigrating this cultural value designed to improve the work environment, embodying the metaphoric rising tide which lifts all boats. With the philosophy of self-compassion in mind and heart, Kevin listens to customers needs and desires. Role models he admires include Jensen Huang, Tony Hsieh, Robert Kiyosaki, and Jerry Yang, Co-Founder of Yahoo and Marissa Mayer, hoping to revive the glory of the tech giant into new successful reincarnated ventures and brainchildren for future young generations.<br>
-
- <br>
-
-
-Given his journey, Kevin hopes to give the gift of lifetime back to others in the form of activism for his valued community to overcome challenges and eliminate pain points of his cherished peerships. He will reinvest his knowledge, wisdom and experience as a shining star that sets an example for followers, classmates and any potential mentees."
 ---
